@@ -35,11 +35,11 @@
 - **Angular**
   - Interfaces web responsivas e performáticas
   - Consumo eficiente de APIs RESTful
-  - Organização de código com SRP
+  - Organização de código com SOLID
 
 - **Flutter**
   - Apps Android/iOS de alta performance
-  - Provider para gerenciamento de estado
+  - Mobx com modular, e outros para gerenciamento de estado
   - FVM para controle de versões do SDK
 
 - **Bancos de dados**
