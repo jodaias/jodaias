@@ -2,14 +2,14 @@
 <h1 align="center">👋 Olá, eu sou Jodaías Barreto</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software</b> | .NET | Angular | Flutter
+  <b>Desenvolvedor de Software</b> | .NET | Angular | Flutter | Pagamentos
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🔧 **Full Stack Developer**, com foco em back-end .NET e front-end Angular, além de experiência sólida em Flutter para aplicações mobile. Sou apaixonado por clean code, arquitetura escalável e práticas de testes automatizados de qualidade.
+🔧 **Full Stack Developer**, com foco em back-end .NET, front-end Angular, e aplicações mobile com Flutter. Atuo principalmente em projetos relacionados a **pagamentos e integrações financeiras**, sempre aplicando clean code, arquitetura escalável e práticas de testes automatizados de alta qualidade.
 
 ---
 
@@ -24,13 +24,17 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </p>
 
 - **.NET 6/7/8**
   - APIs RESTful com arquitetura limpa
   - NHibernate como ORM
+  - Padrão CQRS com Commands e Queries para organização de casos de uso
   - xUnit, Moq e AutoFixture para testes unitários
+  - Integrações com gateways de pagamento (Cielo, PayPal, DPO, VisaNet, CobrosYa, PayPerTic, etc)
 
 - **Angular**
   - Interfaces web responsivas e performáticas
@@ -39,13 +43,16 @@
 
 - **Flutter**
   - Apps Android/iOS de alta performance
-  - Mobx com modular, e outros para gerenciamento de estado
+  - Mobx com Modular, Provider e outros para gerenciamento de estado
   - FVM para controle de versões do SDK
+
+- **Mensageria e filas**
+  - MassTransit para processamento assíncrono e orquestração de serviços
 
 - **Bancos de dados**
   - SQL Server, MySQL
   - Firebase, MongoDB
-  - Redis para caching
+  - Redis para caching e controle de concorrência
 
 - **DevOps**
   - GitHub Actions para CI/CD
@@ -57,7 +64,9 @@
 
 - **Nomenclatura de métodos:** sempre em inglês e descritivos
 - **Padrão de testes:**
+
 methodName_action_expectedResult
+
 Exemplo: `Handle_ShouldCreatePayment_WhenValidData`
 
 - **Git Flow:**
@@ -71,10 +80,10 @@ Exemplo: `Handle_ShouldCreatePayment_WhenValidData`
 
 ## 🎯 Objetivos atuais
 
-- Aprimorar práticas de arquitetura escalável e segurança em microsserviços
+- Aprimorar práticas de arquitetura escalável e segurança em microsserviços financeiros
 - Otimizar performance e caching com Redis em projetos de alta demanda
 - Evoluir soluções de automação de deploy e integração contínua
-
+  
 ---
 
 ## 📊 GitHub Stats
