@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou Jodaías Barreto</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software</b> | .NET | Angular | Flutter | Pagamentos
+  <b>Desenvolvedor de Software</b> | .NET | Angular | Flutter
 </p>
 
 ---
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MassTransit-1D4E89?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white"/>
 </p>
