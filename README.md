@@ -80,11 +80,11 @@ Exemplo: `Handle_ShouldCreatePayment_WhenValidData`
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jodaiasbarreto&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jodaias&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jodaiasbarreto&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jodaias&theme=tokyonight" alt="GitHub Streak"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodaiasbarreto&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodaias&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
