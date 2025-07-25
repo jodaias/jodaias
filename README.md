@@ -94,7 +94,7 @@ Exemplo: `Handle_ShouldCreatePayment_WhenValidData`
 ## 🌐 Portfólio Online
 
 📁 Confira meus projetos e experiências detalhadas em:
-- **Website:** [jods-developer.netlify.app](https://jods-developer.netlify.app/)
+- **Website:** <a href="https://jods-developer.netlify.app/" target="_blank">jods-developer.netlify.app</a>
 
 ---
 
