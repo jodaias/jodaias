@@ -2,14 +2,19 @@
 <h1 align="center">👋 Olá, eu sou Jodaías Barreto</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software</b> | .NET | Angular | Flutter
+  <b>Full Stack Developer</b> | .NET | Angular | Flutter
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🔧 **Full Stack Developer**, com foco em back-end .NET, front-end Angular, e aplicações mobile com Flutter. Atuo principalmente em projetos relacionados a **pagamentos e integrações financeiras**, sempre aplicando clean code, arquitetura escalável e práticas de testes automatizados de alta qualidade.
+🔧 **Full Stack Developer**, com foco em back-end .NET, front-end Angular e aplicações mobile com Flutter. Atuo principalmente em projetos relacionados a **pagamentos e integrações financeiras**, sempre aplicando clean code, arquitetura escalável e práticas de testes automatizados de alta qualidade.
+
+🎓 **Formação Acadêmica**
+- **Graduação em Gestão da Tecnologia da Informação**
+- **Pós-graduação em Segurança da Informação**
+- **Pós-graduação em Engenharia de Software Distribuído**
 
 ---
 
@@ -70,9 +75,9 @@ methodName_action_expectedResult
 Exemplo: `Handle_ShouldCreatePayment_WhenValidData`
 
 - **Git Flow:**
-- `main` para produção
-- `develop` para integração
-- `feature/*`, `bugfix/*`, `hotfix/*` conforme necessidade
+  - `main` para produção
+  - `develop` para integração
+  - `feature/*`, `bugfix/*`, `hotfix/*` conforme necessidade
 
 - **Pull Requests:** descrição clara com contexto e evidências de validação
 
@@ -83,7 +88,14 @@ Exemplo: `Handle_ShouldCreatePayment_WhenValidData`
 - Aprimorar práticas de arquitetura escalável e segurança em microsserviços financeiros
 - Otimizar performance e caching com Redis em projetos de alta demanda
 - Evoluir soluções de automação de deploy e integração contínua
-  
+
+---
+
+## 🌐 Portfólio Online
+
+📁 Confira meus projetos e experiências detalhadas em:
+- **Website:** [jods-developer.netlify.app](https://jods-developer.netlify.app/)
+
 ---
 
 ## 📊 GitHub Stats
